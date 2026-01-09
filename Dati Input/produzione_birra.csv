@@ -1,0 +1,32 @@
+id_produzione,anno,tipo_birra,litri_prodotti,quintali_cereali_utilizzati,note
+1,2015,Birra Bionda,403372.57,605.06,
+2,2015,Birra Rossa,260028.95,390.04,
+3,2016,Birra Bionda,419999.64,630.0,
+4,2016,Birra Rossa,268976.49,403.46,
+5,2017,Birra Bionda,480718.93,721.08,
+6,2017,Birra Rossa,298720.08,448.08,
+7,2017,Birra IPA,171735.08,257.6,
+8,2018,Birra Bionda,485766.36,728.65,
+9,2018,Birra Rossa,293321.44,439.98,
+10,2018,Birra IPA,174386.18,261.58,
+11,2019,Birra Bionda,486228.48,729.34,
+12,2019,Birra Rossa,300527.24,450.79,
+13,2019,Birra IPA,184530.91,276.8,
+14,2020,Birra Bionda,268176.57,402.26,COVID: riduzione bar e ristoranti
+15,2020,Birra Rossa,183301.91,274.95,COVID: riduzione bar e ristoranti
+16,2020,Birra IPA,110105.21,165.16,COVID: riduzione bar e ristoranti
+17,2021,Birra Bionda,530304.41,795.46,Ripresa completa post-COVID
+18,2021,Birra Rossa,326173.13,489.26,Ripresa completa post-COVID
+19,2021,Birra IPA,191285.79,286.93,Ripresa completa post-COVID
+20,2022,Birra Bionda,556944.93,835.42,
+21,2022,Birra Rossa,343734.68,515.6,
+22,2022,Birra IPA,195667.99,293.5,
+23,2023,Birra Bionda,574683.18,862.02,
+24,2023,Birra Rossa,356127.53,534.19,
+25,2023,Birra IPA,216310.86,324.47,
+26,2024,Birra Bionda,572640.29,858.96,
+27,2024,Birra Rossa,353969.53,530.95,
+28,2024,Birra IPA,208283.1,312.42,
+29,2025,Birra Bionda,592578.98,888.87,
+30,2025,Birra Rossa,367995.27,551.99,
+31,2025,Birra IPA,203313.16,304.97,

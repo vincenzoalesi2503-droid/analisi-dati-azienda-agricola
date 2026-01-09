@@ -1,0 +1,11 @@
+id_canale,nome_canale,tipo_canale,area_geografica,descrizione
+1,Export Europa - Enoteche,Export,Europa,Export Europa - Enoteche - Europa
+2,Export USA - Ristoranti,Export,Nord America,Export USA - Ristoranti - Nord America
+3,Export Asia - Distributori,Export,Asia,Export Asia - Distributori - Asia
+4,Italia - GDO,Domestico,Italia,Italia - GDO - Italia
+5,Italia - Enoteche,Domestico,Italia,Italia - Enoteche - Italia
+6,Italia - Ristorazione,Domestico,Italia,Italia - Ristorazione - Italia
+7,Vendita Diretta Cantina,Diretto,Sicilia,Vendita Diretta Cantina - Sicilia
+8,E-commerce,Diretto,Globale,E-commerce - Globale
+9,Export Europa - GDO,Export,Europa,Export Europa - GDO - Europa
+10,Italia - Bar,Domestico,Italia,Italia - Bar - Italia

@@ -1,0 +1,9 @@
+id_evento,anno,trimestre,nome_evento,tipo_evento,impatto_stimato_percentuale,settori_colpiti,descrizione
+1,2020,1.0,Pandemia COVID-19,Sanitario,-40,"Vino,Birra,Resort","Lockdown e chiusura ristoranti/hotel, export bloccato"
+2,2020,2.0,COVID-19 Q2,Sanitario,-50,Resort,"Picco lockdown, resort chiuso completamente"
+3,2021,1.0,Ripresa post-COVID,Economico,15,Birra,Riapertura bar e ristoranti
+4,2023,,Siccità 2023,Climatico,-20,Vino,"Scarsa piovosità, riduzione rese vigneti"
+5,2023,,Ottima annata olive,Climatico,30,Olio,Condizioni ottimali per olive
+6,2024,,Siccità severa,Climatico,-50,Vino,"Siccità prolungata, forte riduzione produzioneigne"
+7,2024,,Annata record olive,Climatico,35,Olio,Proseguimento condizioni favorevoli
+8,2025,,Ripresa parziale viti,Climatico,25,Vino,"Ritorno piogge, recupero parziale"
